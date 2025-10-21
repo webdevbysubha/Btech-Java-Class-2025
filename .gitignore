@@ -1,0 +1,6 @@
+# Java files and folders to ignore
+*.class
+/bin/
+.vscode/
+.idea/
+.DS_Store
